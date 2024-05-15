@@ -43,3 +43,5 @@ Interoperability: Design the system to work with various games and platforms, po
 User Experience: Ensure the integration is seamless and does not detract from the gaming experience.
 Conclusion
 Creating a proof-of-play blockchain is a complex task that involves integrating game mechanics with blockchain technology to use player actions as a source of entropy. This approach can enhance both the security and engagement of in-game actions, providing a novel way to secure blockchain networks while incentivizing player participation.
+
+Included are some sample smart contracts to draw inspiration from.
